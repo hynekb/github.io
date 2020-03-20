@@ -1,0 +1,15 @@
+# Project information
+
+site_name: HYBSW
+site_url: http://apps.hybsw.com
+site_description: HYBSW Applications Documentation
+site_author: Hynek Broulik
+ 
+nav:
+    - Home: index.md
+    - AgilityE02: agilitye02.md
+    - AgilityA03: agilitya03.md
+    - MedsListLite: medslistlite.md
+    - LiPoCalc: lipocalc.md
+    
+        
