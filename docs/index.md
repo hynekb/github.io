@@ -4,13 +4,13 @@
 ## About
 
 #### HYBSW Team: Hynek Broulik
-*Has been working in computer HW and SW development since 1971 till 2003.*
+*Has been working in computer HW and SW development since 1971.*
 
 **Current status:** *retired*
 
 **Location:** *Ottawa, Canada*
 
-**Contact:** *<hynek@hybsw.com>*
+**Contact:** *<hybswsupp@gmail.com>*
 
 **Hobbies:**
 
