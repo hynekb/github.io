@@ -8,7 +8,7 @@
 - *supported devices: Android phones and tablets*
 
 ### Version
-- *1.0 - Released in March 2020*
+- *1.0 - will be released in May 2020*
 
 ## Description
 **AgilityA03** is an application written for dog agility enthusiasts who compete in trials sanctioned by Agility Association of Canada.

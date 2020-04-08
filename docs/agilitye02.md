@@ -10,6 +10,7 @@
 - *1.8 - Released in January 2018*
 
 
+
 ## Description
 **AgilityE02** is an application written for dog agility enthusiasts who compete in trials sanctioned by Agility Association of Canada.
   Results of AAC trials are kept in AAC database and are available on the WEB.
@@ -29,6 +30,9 @@
 - *no adds*
 - *available in Canada only*
 - *available in Apple store - (to see screenshots, access the Apple store)*
+- *Note:*
+    - *the application will be removed from the Apple Store in April 2020 and
+    will be replaced by new app AgilityA03 in June 2020*
 
 
 

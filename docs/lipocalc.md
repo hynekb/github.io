@@ -36,6 +36,8 @@ and work with LiPo batteries.
 - *no adds*
 - *available worldwide*
 - *available in Apple store - (to see screenshots, access the Apple store)*
+- *Note:*
+  - *the application will be removed from the Apple Store in April 2020*
 
 ## Support
 *Support via email to: <hybswsupp@gmail.com>*
