@@ -1,22 +1,15 @@
-## Welcome to HYBSW
-
 
 ## About
 
-#### HYBSW Team: Hynek Broulik
-*Has been working in computer HW and SW development since 1971.*
+The site provides for documentation, descriptions, privacy policy, end-user licence and help
+for mobile applications developed by HYBSW team.
 
-**Current status:** *retired*
+#### HYBSW Team: Hynek Broulik
 
 **Location:** *Ottawa, Canada*
 
 **Contact:** *<hybswsupp@gmail.com>*
 
-**Hobbies:**
-
-- *RC Helicopters*
-- *Dog agility competitions*
-- *Writing mobile apps*
 
 ## Licence
 
