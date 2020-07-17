@@ -6,7 +6,7 @@ site_author: Hynek Broulik
 plugins: []
  
 nav:
-    - Home: index.md
+    
     - AgilityE03: agilitye03.md
     - AgilityA03: agilitya03.md
 
