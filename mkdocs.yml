@@ -7,7 +7,7 @@ plugins: []
  
 nav:
     - Home: index.md
-    - AgilityE02: agilitye02.md
+    - AgilityE03: agilitye03.md
     - AgilityA03: agilitya03.md
 
 
