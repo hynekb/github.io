@@ -8,7 +8,7 @@
 - *supported devices: Android phones and tablets*
 
 ### Version
-- *1.0 - will be released in May 2020*
+- *1.0 - will be released in September 2020*
 
 ## Description
 **AgilityA03** is an application written for dog agility enthusiasts who compete in trials
@@ -29,7 +29,8 @@
 - *application is free, full functionality, no in-app purchases*
 - *no adds*
 - *available in Canada only*
-- *available in Google Play Store - (to see screenshots, access the Play Store)*
+- *available on Google Play Store - (to see screenshots, access the Play Store)*
+- *(Google Play is a trademark of Google LLC)*
 
 
 ## Support
