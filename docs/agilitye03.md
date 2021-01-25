@@ -2,6 +2,9 @@
 
 ![](images/iconagil.png)
 
+### Application is removed from the Apple store
+HYBSW Team has retired in January 2021
+
 ### Platform
 - *iOS: 13.5 and up*
 - *supported devices: iPhone*
@@ -26,10 +29,8 @@
   it will offer to read last accessed data offline.
 
 ## Availability
-- *application is free, full functionality, no in-app purchases*
-- *no adds*
-- *available in Canada only*
-- *available in Apple store - (to see screenshots, access the Apple store)*
+- *discontinued*
+
 
 
 ## Support

@@ -3,12 +3,15 @@
 
 ![](images/iconagil.png)
 
+### Application is removed from the Google Play Store
+HYBSW team has retired  in January 2021
+
 ### Platform
 - *Android: API 21 and up*
 - *supported devices: Android phones and tablets*
 
 ### Version
-- *1.0 - will be released in September 2020*
+- *1.0 -  released in September 2020*
 
 ## Description
 **AgilityA03** is an application written for dog agility enthusiasts who compete in trials
@@ -16,7 +19,7 @@
   Results of AAC trials are kept in AAC database and are available on the *aactrialresults* web page.
   The dog achievements, such as **Qs** and **titles** are recorded and referred to by AAC as *Dog Achievement Page*.
 
-  The application downloads your *Dog Achievement Page*, presents it on an iPhone and
+  The application downloads your *Dog Achievement Page*, presents it on a phone and
   allows you to sort your dogs data by a *trial year*, *leg name*, *trial judge* and
   *trial host*.
 
@@ -26,11 +29,7 @@
 
 
 ## Availability
-- *application is free, full functionality, no in-app purchases*
-- *no adds*
-- *available in Canada only*
-- *available on Google Play Store - (to see screenshots, access the Play Store)*
-- *(Google Play is a trademark of Google LLC)*
+- *discontinued*
 
 
 ## Support
